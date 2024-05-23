@@ -44,8 +44,4 @@ Interested in joining our mission to create a secure password manager? Here's ho
 
 ---
 
-## Get Started:
 
-Ready to get involved? Join our [Slack channel](#) to connect with the team and start contributing to SecurePass today!
-
-Let's make password management safer and more convenient for everyone with SecurePass! 🛡️🔐
